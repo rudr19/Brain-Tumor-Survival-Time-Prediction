@@ -38,8 +38,10 @@ This project focuses on predicting survival time for brain tumor patients using 
 - Explore deep learning techniques for enhanced accuracy.
 - Incorporate additional medical data for more detailed predictions.
 
-## Contributions
-Contributions are welcome! Feel free to submit pull requests or open issues.
+## **Support**
+
+If you have any questions, issues, or suggestions, feel free to reach out at **[rudrakumarpandey47@gmail.com](mailto:rudrakumarpandey47@gmail.com)**.
+
 
 ## License
 Licensed under the Apache-2.0 License.
