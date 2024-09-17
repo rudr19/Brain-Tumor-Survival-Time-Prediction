@@ -3,8 +3,6 @@ Here’s a professional `README.md` that you can copy directly:
 ```markdown
 # Brain Tumor Survival Time Prediction
 
-![Alt text](https://onco.com/about-cancer/wp-content/uploads/2019/02/Brain_Tumor-1.jpg)
-
 This project focuses on predicting survival time for brain tumor patients using machine learning models. The goal is to help healthcare professionals make more accurate and personalized treatment decisions.
 
 ## Features
@@ -43,6 +41,9 @@ Contributions are welcome! Feel free to submit pull requests or open issues.
 
 ## License
 Licensed under the Apache-2.0 License.
+
+![Alt text](https://onco.com/about-cancer/wp-content/uploads/2019/02/Brain_Tumor-1.jpg)
+
 
 ```
 
