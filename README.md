@@ -14,10 +14,12 @@ This project focuses on predicting survival time for brain tumor patients using 
 
 ## Getting Started
 ```
+```
 ### Prerequisites
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
-```
+
+
 ### Installation
 1. Clone the repository:
    ```bash
@@ -27,13 +29,14 @@ This project focuses on predicting survival time for brain tumor patients using 
 ### 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
    ```
 ### Usage
 1. Load the dataset `BrainTumor.csv`.
 2. Run the notebook `brain_tumor.ipynb` for data preprocessing, model training, and evaluation.
 
 
-## Future Work
+### Future Work
 - Explore deep learning techniques for enhanced accuracy.
 - Incorporate additional medical data for more detailed predictions.
 
